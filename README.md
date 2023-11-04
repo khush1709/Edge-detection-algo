@@ -9,7 +9,6 @@ This repository contains Python code for performing edge detection on images usi
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
@@ -24,7 +23,6 @@ You can install the required packages using the following command:
 ```shell
 pip install opencv-python numpy matplotlib
 ```
-
 
 ## Installation
 1) Clone the repository to your local machine:
