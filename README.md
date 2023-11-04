@@ -26,15 +26,21 @@ pip install opencv-python numpy matplotlib
 
 ## Installation
 1) Clone the repository to your local machine:
-   git clone https://github.com/khush1709/Edge-detection-algo.git
-
+    ```shell
+    git clone https://github.com/khush1709/Edge-detection-algo.git
+   ```
+    
 2) Change the current directory to the project folder:
+   ```shell
    cd edge-detection
-
+   ```
+   
 ## Usage
 1) Place the image you want to process in the project folder and name it img.jpg.
 2) Run the Python script to perform edge detection and display the results:
+   ```shell
    python edge_detection.py
+   ```
 The script will generate and display the original image, Canny edge detection result, Marr-Hildreth edge detection result, and the enhanced output images for both methods.
 
 ## Results
