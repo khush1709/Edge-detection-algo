@@ -51,6 +51,9 @@ The results of the edge detection techniques, along with the enhanced images, wi
 3) Output Image (Canny)
 4) Generated Marr-Hildreth Edge Detection
 5) Output Image (Marr-Hildreth)
+![image](https://github.com/khush1709/Edge-detection-algo/assets/83908626/a302d07d-ee1a-4f65-8f53-05c4e1292b67)
+
+
 
 ## Contributing
 If you'd like to contribute to this project, feel free to open issues, create pull requests, or suggest improvements. We welcome your contributions!
