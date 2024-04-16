@@ -32,16 +32,13 @@ pip install opencv-python numpy matplotlib
     
 2) Change the current directory to the project folder:
    ```shell
-   cd edge-detection
+   cd Edge-detection-algo
    ```
    
 ## Usage
 1) Place the image you want to process in the project folder and name it img.jpg.
-2) Run the Python script to perform edge detection and display the results:
-   ```shell
-   python edge_detection.py
-   ```
-The script will generate and display the original image, Canny edge detection result, Marr-Hildreth edge detection result, and the enhanced output images for both methods.
+2) Run the jupyter notebook to perform edge detection and display the results:
+The notebook will generate and display the original image, Canny edge detection result, Marr-Hildreth edge detection result, and the enhanced output images for both methods.
 
 ## Results
 The results of the edge detection techniques, along with the enhanced images, will be displayed using Matplotlib. You can see the following images:
